@@ -1,0 +1,21 @@
+.button {
+  background-color: #f1f3f4;
+  border: 1px solid #f1f3f4;
+  border-radius: 4px;
+  width: 90px;
+  height: 40px;
+  margin: 3px;
+  cursor: pointer;
+}
+
+.operand {
+  background-color: #dadce0;
+  border: 1px solid #dadce0;
+  height: 28px;
+}
+
+.equal {
+  background-color: #4285f4;
+  border: 1px solid #4285f4;
+  color: white;
+}
